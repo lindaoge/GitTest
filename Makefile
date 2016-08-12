@@ -1,6 +1,6 @@
 include ../onvif.param
 
-
+#add by linjiandao test
 #INSTALLDIR = $(APP_LIB_DIR)
 
 ONVIF_LIB = libOnvifAccess.a
